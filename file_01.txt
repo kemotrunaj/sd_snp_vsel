@@ -2,4 +2,4 @@
 
 werjsa 01
 
-wersja 02 
+wersja 02 >> to branch02
