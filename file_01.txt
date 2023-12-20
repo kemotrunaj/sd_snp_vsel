@@ -1,1 +1,9 @@
-*nowy 
+*nowy
+
+werjsa 01
+
+wersja 02 >> to branch02
+
+tez do branch02
+
+
