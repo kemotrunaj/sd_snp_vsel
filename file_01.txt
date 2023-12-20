@@ -5,3 +5,5 @@ werjsa 01
 wersja 02 >> to branch02
 
 tez do branch02
+
+dodane z brancha 02 
